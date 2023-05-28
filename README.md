@@ -5,7 +5,7 @@ Project consists of activities captured in the incident handler's journal throug
 <br />
 
 
-<h2>Tools Used</h2>
+<h2>Languages & Utilities Used</h2>
 
 - <b>TCPdump</b> 
 - <b>Wireshark</b>
